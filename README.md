@@ -83,23 +83,41 @@ bot10-silencioso
 Estructura sugerida:
 
 .github/workflows/
+
 │ ├── tweet.yml
+
 │ ├── retweet.yml
+
 │ └── ecosistema.yml
+
 bot/
+
 │ ├── main.py
+
 │ ├── retweeter.py
+
 │ ├── ecosistema.py
+
 │ └── twitter_api.py
+
 data/
+
 │ ├── frases.txt
+
 │ └── cuentas_amigas.txt
+
 logs/
+
 │ ├── frases.log
+
 │ ├── retweets.log
+
 │ ├── seguimientos.log
+
 │ └── bot.lock
+
 requirements.txt
+
 README.md
 
 
