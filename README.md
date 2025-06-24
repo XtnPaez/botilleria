@@ -64,9 +64,13 @@ Para cada cuenta:
 Usar una nomenclatura consistente:
 
 bot01-poetico
+
 bot02-memero
+
 bot03-analitico
+
 ...
+
 bot10-silencioso
 
 
